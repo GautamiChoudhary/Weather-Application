@@ -70,3 +70,7 @@ body{
     color: #fff;
     padding: 0 40px 0 5px;
 }
+
+body{
+    font: inherit; 
+}
